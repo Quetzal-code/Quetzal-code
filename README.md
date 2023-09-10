@@ -13,10 +13,8 @@ Feel free to connect with me, I'd love to discuss potential opportunities.
 
 - 🔭 I’m currently working on a React app
 - 🌱 I’m currently learning Front-End development
-- 👯 I’m looking to collaborate on translate pages English to Spanish
+- 👯 I’m looking to collaborate on translate pages from English to Spanish
 - 🤔 I’m looking for help with anything someone want to teach me 
 
 Best regards,
 Quetzal Uzcategui
-
-https://archiveprogram.github.com/
